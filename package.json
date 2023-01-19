@@ -1,0 +1,22 @@
+{
+  "name": "sample-nodejs-app",
+  "version": "1.0.0",
+  "description": "Sample NodeJs App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajakishorekavi/sample-nodejs-app.git"
+  },
+  "author": "Rajakishore Kavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajakishorekavi/sample-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/rajakishorekavi/sample-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
